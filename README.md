@@ -24,6 +24,13 @@ This repository contains code examples for machine learning tasks and algorithms
     <td class="tg-01"><a href="https://colab.research.google.com/drive/1g99eZuf35W1oSFPyQ6NWXSbqIAmaWALJ">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' ></a></td>
   </tr>
+  
+  <tr>
+    <td class="tg-01">Candidate Elimination Algorithm</td>
+    <td class="tg-01">Implement Candidate Elimination Algorithm</td>
+    <td class="tg-01"><a href="https://colab.research.google.com/drive/1hIqwGPHGHc4tkaufeoI1kmyJGUgkYtup">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' ></a></td>
+  </tr>
 
 </table> 
 
