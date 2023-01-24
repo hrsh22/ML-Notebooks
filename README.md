@@ -38,6 +38,34 @@ This repository contains code examples for machine learning tasks and algorithms
     <td class="tg-01"><a href="https://colab.research.google.com/drive/1wtVmjlFjfXjM1XYWWnPZPEh7vIKoYVbA">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' ></a></td>
   </tr>
+  
+  <tr>
+    <td class="tg-01">K Nearest Neighbor Algorithm</td>
+    <td class="tg-01">Implement KNN Algorithm</td>
+    <td class="tg-01"><a href="https://colab.research.google.com/drive/1N0IVBfgNU_WbM1Pxdd8r2WwrKHA_ZQyb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' ></a></td>
+  </tr>
+  
+  <tr>
+    <td class="tg-01">K-Means Algorithm</td>
+    <td class="tg-01">Implement K Means Algorithm</td>
+    <td class="tg-01"><a href="https://colab.research.google.com/drive/154GAsw_n00NUSTYMkFzdZbqPmemJe_fq">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' ></a></td>
+  </tr>
+  
+  <tr>
+    <td class="tg-01">Naive Bayes Algorithm</td>
+    <td class="tg-01">Implement Naive Bayes Algorithm</td>
+    <td class="tg-01"><a href="https://colab.research.google.com/drive/1yfR4URiAIUXdCo-xiX0_SPHy9siY7H9J">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' ></a></td>
+  </tr>
+  
+  <tr>
+    <td class="tg-01">Support Vector Machine</td>
+    <td class="tg-01">Implement SVM Algorithm</td>
+    <td class="tg-01"><a href="https://colab.research.google.com/drive/1kui-Jyq1-lOXJu2GRN7l90E6DCpX_amz">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' ></a></td>
+  </tr>
 
 </table> 
 
